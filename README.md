@@ -7,11 +7,9 @@ Objectives
 - Utilize data preprocessing and feature engineering to improve model accuracy
 - Compare different regression algorithms to identify the best-performing model
 
-
 Technologies Used
 - Python (NumPy, Pandas, Scikit-Learn)
 - Jupyter Notebook for development
 - Matplotlib/Seaborn for data visualization
 - Machine Learning models (Linear Regression, Random Forest )
 
-- 
