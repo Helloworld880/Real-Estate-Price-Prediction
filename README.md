@@ -16,5 +16,5 @@ Technologies Used
 - Matplotlib/Seaborn for data visualization
 - Machine Learning models (Linear Regression, Random Forest )
 
-To run these file go to App.py flie and run the flie in terminal and wirte this commands
+To run these file go to App.py flie and run the flie in terminal and write this commands
  streamlit run  app.py
