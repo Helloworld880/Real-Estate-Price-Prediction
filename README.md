@@ -14,7 +14,4 @@ Technologies Used
 - Matplotlib/Seaborn for data visualization
 - Machine Learning models (Linear Regression, Random Forest )
 
-To excute the progarm 
- open the app.py 
- run the file ( in the terminal)
- streamlit run  app.py
+
