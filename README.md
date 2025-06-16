@@ -1,6 +1,7 @@
 # House-Price-Prediction
 Overview This project focuses on predicting house prices using machine learning techniques. By leveraging historical housing data, it aims to provide accurate price estimations based on various features like location, size, amenities, and market trends.
 
+Dataset - From https://www.kaggle.com/datasets
 Objectives
 - Develop a predictive model to estimate house prices
 - Analyze influential features affecting real estate prices
@@ -8,8 +9,12 @@ Objectives
 - Compare different regression algorithms to identify the best-performing model
 
 Technologies Used
-- Python (NumPy, Pandas, Scikit-Learn)
+- Python (NumPy, Pandas, Scikit-Learn, joblib) 
 - Jupyter Notebook for development
 - Matplotlib/Seaborn for data visualization
 - Machine Learning models (Linear Regression, Random Forest )
 
+To excute the progarm 
+ open the app.py 
+ run the file ( in the terminal)
+ streamlit run  app.py
